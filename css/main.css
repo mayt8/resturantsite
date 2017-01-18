@@ -1,0 +1,123 @@
+body {
+  background-color: #237c7c;
+}
+
+.container {
+	background-color: #237c7c;
+}
+h1 {
+	font-size: 50px;
+	color: #A81600;
+	border-bottom: solid;
+	font-family: 'Playfair Display SC', serif;
+}
+
+h2 {
+	color: #A81600;
+	border-bottom: solid;
+	font-size: 30px;
+	font-family: 'Playfair Display SC', serif;
+}
+
+h3 {
+	font-size: 25px;
+	border-bottom: solid;
+	color: #A81600;
+	font-family: 'Playfair Display SC', serif;
+}
+
+footer h2 {
+	color: #FFFFFF;
+	border-bottom: solid;
+	font-family: 'Playfair Display SC', serif;
+}
+
+h4 {
+	font-family: 'Playfair Display SC', serif;
+}
+
+header {
+	background-color: #237c7c;
+	color: #000000;
+	font-family: serif;
+}
+
+footer {
+	background-color: #237c7c;
+	color: #FFFFFF;
+}
+
+footer a:link {
+	color: #FFFFFF;
+}
+
+footer a:visited {
+	color: #FFFFFF;
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+	font-family: 'IM Fell English SC', serif;
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+	list-style: none;
+	padding-bottom: 5px;
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+img  {
+	max-width: 100%
+}
+
+a:link {
+	color: #A81600;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #A81600;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+a:active {
+	text-decoration: none;
+}
